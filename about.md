@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I am a problem solver.  I particularly enjoy finding or inventing clear, effecient and sustainable solutions.  I love learning about everything, and especially about things that help me improve at my craft.  I began my career as a public school music teacher and then had the amazing opportunity to work on software solutions for music students and teachers at MakeMusic.  I quickly discovered that this was a great fit for me.  After 10 years of performing various roles on software and content development teams, I am now fully immersed in the world of Ruby on Rails web development.  I am currently working on Smickle, a web-based practicing journal for music students and parents.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+I live in Minnesota with my family.  Outside of work, I enjoy helping my children with their violin practicing, riding my bike, and dreaming about our next family trip.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
