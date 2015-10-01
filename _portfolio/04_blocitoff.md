@@ -3,26 +3,37 @@ layout: post
 title: Blocitoff
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocitoff.png"
-short-description: Blocitoff is awesome!
+short-description: Blocitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
 
 ---
 ## Overview
 
-This was my first project created with Ruby and Rails, and served as the foundation phase of the BLOC Rails Web Development course.  In building this project with the help of the BLOC curriculum and my mentor, Charlie Gaines, I was introduced to the fundamentals of rails development.
+I created Bloccit as part of my Rails Development course at Bloc.  This was the first project that I completed without following a step by step guide.  The challenge was to apply what I had learned in the foundational phase of the course to a new project.
 
 ## Problem
 
-As an introduction to the Rails framework, this project was designed to lay the foundation for learning about the most important tools and best practices for web development.
+It seems that to-do lists frequently become bloated after being used for even a short period of time.  Low priority items repeatedly get put off, and before long your list is cluttered with them.  Blocitoff will address this issue of to-do list clutter!  
 
 ## Solution
 
-I created Bloccit with the resources provided at Bloc.io and with the help of my mentor.  The Rails framework shines especially well for this type of socail networking application.  I learned about core concepts of the web development, including the MVC architecture, RESTful conventions for CRUD, and Test-Driven Development.  Along the way I was introduced to some helpful tools including RSpec, Capybara, FactoryGirl, Devise, Pundit, Bootstrap, JQuery, AJAX, PostgreSQL, Will_paginate, Sendgrid, Redcarpet.
+As with any traditional to-do list, a user can create new items, and then mark them as completed.  The key feature of Blocitoff is that to-do items are automatically deleted seven days after their creation date.  Using Bloccitoff helps develop good productivity habits.  You are more likely to consider whether a task is truly important before adding it to your list, and when items approach their deadline you have a second chance to decide if it is a priority.  This is an improvement over passively adding a task to a to-do list that remains there for a very long period of time.
 
 ## Results
 
-I tried to write my own code as much as I could, and sometimes this created conflicts with the cookie cutter snippits in the Bloc checkpoints.  This was great, because I learned the most whenever I got stuck.  Tracking down my mistake required me to dig deeper into the documentation.  It also helped me to know what questions to be asking when I met with my mentor.  After setting up the user authentication using Devise, I didn't feel comfortable with how magical it seemed and I wanted to learn more about what was going on under the hood.  My mentor suggested that I read the Ruby on Rails Tutorial by Michal Hartl (https://www.railstutorial.org/).  I highly reccomend this to anyone who wants to learn Rails, especially if you are interested in learning 'why' in addition to 'how'.
+The key feature of Bloccitoff is that tasks older than seven days be deleted.  This was accomplished by using a cusotom rake task:
+{%highlight ruby%}
+namespace :todo do
+  desc "TODO"
+  desc "Delete items older than seven days"
+  task delete_items: :environment do
+    Item.where("created_at <= ?", Time.now - 7.days).destroy_all
+  end
+end
+{%endhighlight%}
 
 
 ## Conclusion
 
-Paired with the Rails Tutorial Sample App, Bloccit was a great fist step and established a foundation of best practices.  Because they are both simple and very thorough, they will continue to serve as a reference for me.
+Blocitoff was a straightforward and simple application.  It gave me a chance to practice implementing user authentication from scratch as well as using Ajax for marking items as complete.  It was also my first introduction to custom rake tasks.
+
+
