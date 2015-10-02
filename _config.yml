@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://github.com/bgohman/portfolio-iro.git # the base hostname & protocol for your site
+url: "https://github.com/bgohman/portfolio-iro.git" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
