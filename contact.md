@@ -2,19 +2,18 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
-  <input type='text' name='name' placeholder='Your Full Name' />
-  <br>
-  <input type='email' name='email' placeholder='Your E-mail Address' />
-  <br>
-  <textarea name='message' placeholder='Write your message ...'></textarea>
-  <br>
-  <input type='submit' value='Send Message' />
-</form>
+<div class="contact-form">
+  <form action="https://getsimpleform.com/messages?form_api_token=56ea5d52b5e091e06702497ebf76a43b" method="post">
+    <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+    <input type='hidden' name='redirect_to' value='http://bgohman.github.io/thank-you/' />
+    <input type='text' name='name' placeholder='name' class = 'contact-field'/>
+    <br>
+    <input type='email' name='email' placeholder='e-mail address' class = 'contact-field'/>
+    <br>
+    <textarea name='message' placeholder='your message ...' class = 'contact-field' rows = '7' ></textarea>
+    <br>
+    <input type='submit' value='Send!' />
+  </form>
+</div>

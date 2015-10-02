@@ -16,8 +16,6 @@ theme:
   header_text_feature_image: >
     img/sample_feature_img_2.png
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with
-   <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
    Thanks for stopping by!
 
   # Icons
