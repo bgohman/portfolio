@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thank You
-permalink: /thank-you/
+permalink: portfolio/thank-you/
 feature-img: "img/color.png"
 hide: true
 ---
