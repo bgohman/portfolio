@@ -4,7 +4,7 @@ title: OpenTodoAPI
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/open_todo_api.png"
 short-description: Open Todo API is an API for a to-do list application to allow users to authenticate and manage their information externally.
-permalink: portfolio/open_todo_api.md/
+permalink: /open_todo_api.md/
 
 ---
 ## Overview

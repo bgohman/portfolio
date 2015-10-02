@@ -4,7 +4,7 @@ title: Smickle
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/smickle.png"
 short-description: Smickle is a practicing journal for Suzuki violin and piano students, parents and teachers.
-permalink: portfolio/smickle/
+permalink: /smickle/
 
 ---
 
