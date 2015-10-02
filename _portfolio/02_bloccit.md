@@ -4,6 +4,7 @@ title: Bloccit
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/bloccit_home.png"
 short-description: Bloccit is a Reddit replica which allows users to post, comment and vote on links and content.
+permalink: bloccit/
 
 ---
 ## Overview

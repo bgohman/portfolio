@@ -4,6 +4,7 @@ title: Blocipedia
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocipedia.png"
 short-description: Blocipedia is a production quality SaaS application that allows users to create their own wikis.
+permalink: blocipedia/
 
 ---
 ## Overview
@@ -16,17 +17,17 @@ Incorporating a working payment system was a very important goal for me.  Paymen
 
 ## User Stories
 
-As a Developer, I want to generate views using HAML, instead of ERB.
-As a User, I want to be able to sign up for a free account by providing user name, email, and password.
-As a User, I want to be able to sign in and out of Blocipedia.
-As a User with a standard account, I want to be able to Create, Read, Update, and Destroy Public Wikis.
-As a User, I want a User Profile to display and edit personal Wikis.
-As a Developer, I want to offer three user roles: Admin, Standard, or Premium.
-As a Developer, I want to seed the development database with users and wikis.
-As a User, I want to create wikis using Markdown syntax.
-As a User, I want to upgrade my account from a Standard to Premium plan.
-As a Premium User, I want to create private wikis.
-As a Premium User, I want to add and remove collaborators from my private wikis.
+* As a Developer, I want to generate views using HAML, instead of ERB.
+* As a User, I want to be able to sign up for a free account by providing user name, email, and password.
+* As a User, I want to be able to sign in and out of Blocipedia.
+* As a User with a standard account, I want to be able to Create, Read, Update, and Destroy Public Wikis.
+* As a User, I want a User Profile to display and edit personal Wikis.
+* As a Developer, I want to offer three user roles: Admin, Standard, or Premium.
+* As a Developer, I want to seed the development database with users and wikis.
+* As a User, I want to create wikis using Markdown syntax.
+* As a User, I want to upgrade my account from a Standard to Premium plan.
+* As a Premium User, I want to create private wikis.
+* As a Premium User, I want to add and remove collaborators from my private wikis.
 
 ## Conclusion
 

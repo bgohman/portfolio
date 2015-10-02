@@ -4,6 +4,7 @@ title: Blocitoff
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocitoff.png"
 short-description: Blocitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
+permalink: blocitoff/
 
 ---
 ## Overview
@@ -12,7 +13,7 @@ I created Bloccit as part of my Rails Development course at Bloc.  This was the 
 
 ## Problem
 
-It seems that to-do lists frequently become bloated after being used for even a short period of time.  Low priority items repeatedly get put off, and before long your list is cluttered with them.  Blocitoff will address this issue of to-do list clutter!  
+It seems that to-do lists frequently become bloated after being used for even a short period of time.  Low priority items repeatedly get put off, and before long your list is cluttered with them.  Blocitoff will address this issue of to-do list clutter!
 
 ## Solution
 

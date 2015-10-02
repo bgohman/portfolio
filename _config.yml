@@ -7,14 +7,14 @@ theme:
   # Meta
   title: Bradley Gohman
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar:
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Rails Developer</h1>
      <p>I am passionate about solving problems, creating new things and learning.</p>
-  header_text_feature_image:
+  header_text_feature_image: >
+    img/sample_feature_img_2.png
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with
    <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -22,7 +22,7 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "bradley.s.gohman@gmail.com"
   behance:
   bitbucket: "bgohman"
   dribbble:

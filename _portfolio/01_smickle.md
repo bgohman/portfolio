@@ -4,25 +4,28 @@ title: Smickle
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/smickle.png"
 short-description: Smickle is a practicing journal for Suzuki violin and piano students, parents and teachers.
+permalink: smickle/
 
 ---
+
 ## Overview
 
-This was my first project created with Ruby and Rails, and served as the foundation phase of the BLOC Rails Web Development course.  In building this project with the help of the BLOC curriculum and my mentor, Charlie Gaines, I was introduced to the fundamentals of rails development.
+I have always been interested in how people learn, how do we develop our various talents.  I have been particularly impacted by these three poplur books: *Mindset* by Carol Dweck, *Nurtured by Love* by Shinichi Suzuki, and *The Talent Code* by Daniel Coyle.  The common theme in these books is that each and every one of us has potential for greatness and we achieve this greatness through gradual and sustained practice.  I built Smickle thinking about how we might become more effective with our music practe.
 
-## Problem
+There is a lot to keep track of as a music student, and it is easy to lose track of the most important concepts you should be working on.  Smickle organizes your daily practice and provides the structure needed to practice efficiently. It helps you stay on task and focus on what you really want to achieve.  If you have a large amount of practice tasks that get spread out over a number of days like scales or review pieces, Smickle can help make sure that you are getting to all of them.
 
-As an introduction to the Rails framework, this project was designed to lay the foundation for learning about the most important tools and best practices for web development.
+By effectively dealing with the necessery details, you can have fun learning to play an instrument.
 
-## Solution
+## Key Features
 
-I created Bloccit with the resources provided at Bloc.io and with the help of my mentor.  The Rails framework shines especially well for this type of socail networking application.  I learned about core concepts of the web development, including the MVC architecture, RESTful conventions for CRUD, and Test-Driven Development.  Along the way I was introduced to some helpful tools including RSpec, Capybara, FactoryGirl, Devise, Pundit, Bootstrap, JQuery, AJAX, PostgreSQL, Will_paginate, Sendgrid, Redcarpet.
-
-## Results
-
-I tried to write my own code as much as I could, and sometimes this created conflicts with the cookie cutter snippits in the Bloc checkpoints.  This was great, because I learned the most whenever I got stuck.  Tracking down my mistake required me to dig deeper into the documentation.  It also helped me to know what questions to be asking when I met with my mentor.  After setting up the user authentication using Devise, I didn't feel comfortable with how magical it seemed and I wanted to learn more about what was going on under the hood.  My mentor suggested that I read the Ruby on Rails Tutorial by Michal Hartl (https://www.railstutorial.org/).  I highly reccomend this to anyone who wants to learn Rails, especially if you are interested in learning 'why' in addition to 'how'.
-
-
-## Conclusion
-
-Paired with the Rails Tutorial Sample App, Bloccit was a great fist step and established a foundation of best practices.  Because they are both simple and very thorough, they will continue to serve as a reference for me.
+* Users can create practice tasks and add them to a student's daily practice routine.
+* Users can add a short reminder and detailed instructions for each task.
+* Users can create a 'task-jar' with any number of tasks and then assign a selected number of them.  They are shuffled and chosen randomly until all of the tasks are complete.  Then all of the tasks go back in and are shuffled again!
+* When a student has completed all of their tasks they are asked if they would like to add a 'surprise review song'.  If they do, a new task comprised of one of their review pieces is added to their routine.
+* Students can use the built in timer to track their practice time.
+* Students are asked to write their goal for the day at the start of the practice session.
+* Students are asked to reflect on something positive they did today at the end of the practice session.
+* Students can check a box to mark tasks as complete.  Completed tasks move to the bottom of the list.
+* A User can review their practice history on a calendar which shows which days you practiced.
+* A User can see fun statistics about their practicing like the total number of completed tasks, or their total practice time.
+* A User can see the last time they practiced and also their current and longest streaks of consecutive days.
