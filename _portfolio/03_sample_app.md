@@ -4,7 +4,7 @@ title: SampleApp
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/sample_app.png"
 short-description: Sample App is a Twitter replica which allows users to create microposts and follow other users.
-permalink: sample_app/
+permalink: portfolio/sample_app/
 
 ---
 ## Overview
