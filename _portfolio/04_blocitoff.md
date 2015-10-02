@@ -4,7 +4,7 @@ title: Blocitoff
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocitoff.png"
 short-description: Blocitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
-permalink: portfolio/blocitoff/
+permalink: blocitoff/
 
 ---
 ## Overview

@@ -4,7 +4,7 @@ title: Blocmarks
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocmarks.png"
 short-description: Blocmarks is a social bookmarking app that allows users to email, manage and share bookmarks and URLs.
-permalink: portfolio/blocmarks/
+permalink: blocmarks/
 
 ---
 ## Overview

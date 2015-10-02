@@ -4,7 +4,7 @@ title: Blocipedia
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocipedia.png"
 short-description: Blocipedia is a production quality SaaS application that allows users to create their own wikis.
-permalink: portfolio/blocipedia/
+permalink: blocipedia/
 
 ---
 ## Overview

@@ -4,7 +4,7 @@ title: Blocmetrics
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocmetrics.png"
 short-description: Blocmetrics is an analytics and reporting service for tracking and reporting user activity on your web sites.
-permalink: portfolio/blocmetrics/
+permalink: blocmetrics/
 
 
 ---

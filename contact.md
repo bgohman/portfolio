@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: portfolio/contact/
+permalink: /contact/
 ---
 
 <div class="contact-form">
