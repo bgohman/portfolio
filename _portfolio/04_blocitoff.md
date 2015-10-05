@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Blocitoff
-feature-img: "img/sample_feature_img.png"
+title: Bloccitoff
+feature-img: "img/sample_feature_img_3.png"
 thumbnail-path: "img/blocitoff.png"
-short-description: Blocitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
+short-description: Bloccitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
 permalink: blocitoff/
 
 ---
+
+[Visit Bloccitoff](https://sleepy-thicket-1643.herokuapp.com/) \| [View Source](https://github.com/bgohman/bloccitoff)
+
 ## Overview
 
 I created Bloccit as part of my Rails Development course at Bloc.  This was the first project that I completed without following a step by step guide.  The challenge was to apply what I had learned in the foundational phase of the course to a new project.

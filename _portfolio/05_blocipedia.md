@@ -7,6 +7,8 @@ short-description: Blocipedia is a production quality SaaS application that allo
 permalink: blocipedia/
 
 ---
+[Visit Blocipedia](https://bgohman-blocipedia.herokuapp.com/) \| [View Source](https://github.com/bgohman/blocipedia)
+
 ## Overview
 
 I created Blocipedia as part of my Rails Development course at Bloc.  Wikis are a great way to access and contribute to crowd-sourced content.  As a learning exercise, I wanted to create my own wiki application in which you can create, edit and view wikis.  User-created wikis are viewable by everyone, unless the user purchases a premium membership through Stripe that allows them the option of creating private wikis.  Premium members can add and remove colloaborators to their private wikis.  A user can downgrade back to a standard account, at which time any of their private wikis become public.

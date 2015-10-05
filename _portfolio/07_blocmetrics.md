@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Blocmetrics
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/sample_feature_img_3.png"
 thumbnail-path: "img/blocmetrics.png"
 short-description: Blocmetrics is an analytics and reporting service for tracking and reporting user activity on your web sites.
 permalink: blocmetrics/
 
-
 ---
+[Visit Blocmetrics](https://bgohman-blocmetrics.herokuapp.com/) \| [View Source](https://github.com/bgohman/blocmetrics)
+
 ## Overview
 
 I created Blocmetrics as part of my Rails Development course at Bloc.  The key features include client-side JavaScript that tracks events on a users' website, a server-side API that captures and saves the events to a database, and a Rails application that displays the event data.

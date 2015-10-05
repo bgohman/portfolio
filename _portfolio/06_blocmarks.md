@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Blocmarks
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/sample_feature_img_2.png"
 thumbnail-path: "img/blocmarks.png"
-short-description: Blocmarks is a social bookmarking app that allows users to email, manage and share bookmarks and URLs.
+short-description: Blocmarks is a bookmarking app that allows users to email, manage and share bookmarks and URLs.
 permalink: blocmarks/
 
 ---
+[Visit Blocmarks](https://bgohman-blocmarks.herokuapp.com/) \| [View Source](https://github.com/bgohman/blocmarks)
+
 ## Overview
 
 I created Blocmarks as part of my Rails Development course at Bloc.  Blocmarks lets a user bookmark URLs via email, view other people's bookmarks and keep a personal collection of bookmarks grouped by topic.  While I never grasped the practicality of an app like this, it was a fun project to work on.

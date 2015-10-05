@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Smickle
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/music5.png"
 thumbnail-path: "img/smickle.png"
 short-description: Smickle is a practicing journal for Suzuki violin and piano students, parents and teachers.
 permalink: smickle/
-
 ---
+
+[Visit Smickle](https://sleepy-savannah-9091.herokuapp.com/). The source code is hosted in a private Bitbucket repository. [Contact me](/contact/) if you are interested.
 
 ## Overview
 

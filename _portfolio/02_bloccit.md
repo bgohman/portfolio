@@ -7,6 +7,9 @@ short-description: Bloccit is a Reddit replica which allows users to post, comme
 permalink: bloccit/
 
 ---
+
+[Visit Bloccit](https://bgohman-bloccit.herokuapp.com/) \| [View Source](https://github.com/bgohman/bloccit)
+
 ## Overview
 
 This was my first project created with Ruby and Rails, and served as the foundation phase of the BLOC Rails Web Development course.  In building this project with the help of the BLOC curriculum and my mentor, Charlie Gaines, I was introduced to the fundamentals of rails development.

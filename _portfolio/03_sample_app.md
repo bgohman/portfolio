@@ -1,29 +1,18 @@
 ---
 layout: post
 title: SampleApp
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/sample_feature_img_2.png"
 thumbnail-path: "img/sample_app.png"
 short-description: Sample App is a Twitter replica which allows users to create microposts and follow other users.
 permalink: sample_app/
 
 ---
+[Visit Sample App](https://sleepy-thicket-1643.herokuapp.com/) \| [View Source](https://github.com/bgohman/sample_app)
+
 ## Overview
 
-This was my first project created with Ruby and Rails, and served as the foundation phase of the BLOC Rails Web Development course.  In building this project with the help of the BLOC curriculum and my mentor, Charlie Gaines, I was introduced to the fundamentals of rails development.
+While going through the BLOC curriculum for the Rails web development apprenticeship, I often found myself wanting to understand more about how certain peices work.  After learning about using Devise for user authentication, my mentor suggested the Rails Tutorial by Michael Hartl.  This project is the result of my reading and following of that tutorial.
 
-## Problem
+## What I learned
 
-As an introduction to the Rails framework, this project was designed to lay the foundation for learning about the most important tools and best practices for web development.
-
-## Solution
-
-I created Bloccit with the resources provided at Bloc.io and with the help of my mentor.  The Rails framework shines especially well for this type of socail networking application.  I learned about core concepts of the web development, including the MVC architecture, RESTful conventions for CRUD, and Test-Driven Development.  Along the way I was introduced to some helpful tools including RSpec, Capybara, FactoryGirl, Devise, Pundit, Bootstrap, JQuery, AJAX, PostgreSQL, Will_paginate, Sendgrid, Redcarpet.
-
-## Results
-
-I tried to write my own code as much as I could, and sometimes this created conflicts with the cookie cutter snippits in the Bloc checkpoints.  This was great, because I learned the most whenever I got stuck.  Tracking down my mistake required me to dig deeper into the documentation.  It also helped me to know what questions to be asking when I met with my mentor.  After setting up the user authentication using Devise, I didn't feel comfortable with how magical it seemed and I wanted to learn more about what was going on under the hood.  My mentor suggested that I read the Ruby on Rails Tutorial by Michal Hartl (https://www.railstutorial.org/).  I highly reccomend this to anyone who wants to learn Rails, especially if you are interested in learning 'why' in addition to 'how'.
-
-
-## Conclusion
-
-Paired with the Rails Tutorial Sample App, Bloccit was a great fist step and established a foundation of best practices.  Because they are both simple and very thorough, they will continue to serve as a reference for me.
+The Rails tutorial is very well written and very thorough.  During the course of my apprenticeship, I completed the tutorial and the sample app project twice with about two months in between.  On my first time through, I was able to follow along and grasp most of the concepts.  On my second time through, I was able to think more about how and why everything worked the way that it did.  I was also able to better understand the tests.  When I started the tutorial the first time, I knew what TDD and BDD were, but that was about all.  After completing it the second time, I have a much greater appreciation for how to get started with writing my own tests.  My number one goal as a developer is to get better at writing tests.

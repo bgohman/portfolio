@@ -7,6 +7,9 @@ short-description: Open Todo API is an API for a to-do list application to allow
 permalink: open_todo_api/
 
 ---
+
+[Visit Open Todo API](https://bgohman-open-todo-api.herokuapp.com/) \| [View Source](https://github.com/bgohman/open-todo-api)
+
 ## Overview
 
 I created Open Todo API as part of my Rails Development course at Bloc.  This project is a replica of Todo.txt which allows users to create, use and share their list on all of their devices.  The API allows users to interact with their list from the command line or a browser.  It also supports other platforms so any programmer can build on this tool in new ways.
