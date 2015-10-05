@@ -11,9 +11,9 @@ permalink: smickle/
 
 ## Overview
 
-I have always been interested in how people learn, how do we develop our various talents.  I have been particularly impacted by these three poplur books: *Mindset* by Carol Dweck, *Nurtured by Love* by Shinichi Suzuki, and *The Talent Code* by Daniel Coyle.  The common theme in these books is that each and every one of us has potential for greatness and we achieve this greatness through gradual and sustained practice.  I built Smickle thinking about how we might become more effective with our music practe.
+I have always been interested in how people learn and how we develop our various talents.  I have been particularly impacted by these three poplur books: *Mindset* by Carol Dweck, *Nurtured by Love* by Shinichi Suzuki, and *The Talent Code* by Daniel Coyle.  The common theme in these books is that every one of us has potential for greatness and that we achieve this greatness through gradual and sustained practice.  I built Smickle thinking about helping people become more effective with their music practe.
 
-There is a lot to keep track of as a music student, and it is easy to lose track of the most important concepts you should be working on.  Smickle organizes your daily practice and provides the structure needed to practice efficiently. It helps you stay on task and focus on what you really want to achieve.  If you have a large amount of practice tasks that get spread out over a number of days like scales or review pieces, Smickle can help make sure that you are getting to all of them.
+There is a lot to keep track of as a music student, and it is easy to get deistracted from the most important concepts you should be working on.  Smickle organizes your daily practice and provides the structure needed to practice efficiently. It helps you stay on task and focus on what you really want to achieve.  If you have a large amount of practice tasks that get spread out over a number of days like scales or review pieces, Smickle can help make sure that you are getting to all of them.
 
 By effectively dealing with the necessery details, you can have fun learning to play an instrument.
 
@@ -27,6 +27,6 @@ By effectively dealing with the necessery details, you can have fun learning to 
 * Students are asked to write their goal for the day at the start of the practice session.
 * Students are asked to reflect on something positive they did today at the end of the practice session.
 * Students can check a box to mark tasks as complete.  Completed tasks move to the bottom of the list.
-* A User can review their practice history on a calendar which shows which days you practiced.
-* A User can see fun statistics about their practicing like the total number of completed tasks, or their total practice time.
-* A User can see the last time they practiced and also their current and longest streaks of consecutive days.
+* A user can review their practice history on a calendar which shows which days you practiced.
+* A user can see fun statistics about their practicing like the total number of completed tasks, or their total practice time.
+* A user can see the last time they practiced and also their current and longest streaks of consecutive days.
