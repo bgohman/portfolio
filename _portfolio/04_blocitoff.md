@@ -8,7 +8,7 @@ permalink: blocitoff/
 
 ---
 
-[Visit Bloccitoff](https://sleepy-thicket-1643.herokuapp.com/) \| [View Source](https://github.com/bgohman/bloccitoff)
+[Visit Bloccitoff](https://bgohman-bloccitoff.herokuapp.com/) \| [View Source](https://github.com/bgohman/bloccitoff)
 
 ## Overview
 
