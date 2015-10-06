@@ -15,14 +15,17 @@ I created Blocmetrics as part of my Rails Development course at Bloc.  The key f
 
 ## User Stories
 
-* As a user, I want to sign up for a free account by providing a name, password, and email.
-* As a user, I want to sign in and out of Blocmetrics.
-* As a user, I want to register an application with Blocmetrics for tracking.
-* As a user, I want events associated with registered applications.
-* As a developer, I want to receive incoming events in an API controller.
-* As a user, I want to use JavaScript to capture client-side events in my application.
-* As a user, I want to see a graph of events for each registered application.
+* As a user, I want to:
+  * Sign up for a free account by providing a name, password, and email.
+  * Sign in and out of Blocmetrics.
+  * Register an application with Blocmetrics for tracking.
+  * Associate events with registered applications.
+  * Use JavaScript to capture client-side events in my application.
+  * See a graph of events for each registered application.
+
+* As a developer, I want to:
+  * Receive incoming events in an API controller.
 
 ## Conclusion
 
-The biggest challenge of this project turned out to be dealing with security concerns when passing information between different web applications.  I learned how to use cross-origin resource sharing (CORS) to control this communication without opening up security vulnerabilites.  I really enjoyed using Chartkick and the Groupdate gem to build the charts and graphs for displaying the data in a visually inviting way.
+The biggest challenge of this project turned out to be dealing with security concerns when passing information between different web applications.  I learned how to use cross-origin resource sharing (CORS) to control this communication without opening up security vulnerabilities.  I really enjoyed using Chartkick and the Groupdate gem to build the charts and graphs for displaying the data in a visually inviting way.

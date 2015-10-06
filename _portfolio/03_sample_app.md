@@ -11,7 +11,7 @@ permalink: sample_app/
 
 ## Overview
 
-While going through the BLOC curriculum for the Rails web development apprenticeship, I often found myself wanting to understand more about how certain peices work.  After learning about using Devise for user authentication, my mentor suggested the Rails Tutorial by Michael Hartl.  This project is the result of my reading and following of that tutorial.
+While going through the BLOC curriculum for the Rails web development apprenticeship, I often found myself wanting to understand more about how certain pieces work.  After learning about using Devise for user authentication, my mentor suggested the Rails Tutorial by Michael Hartl.  This project is the result of my reading and following of that tutorial.
 
 ## What I learned
 

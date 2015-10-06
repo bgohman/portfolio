@@ -3,7 +3,7 @@ layout: post
 title: Bloccitoff
 feature-img: "img/sample_feature_img_3.png"
 thumbnail-path: "img/blocitoff.png"
-short-description: Bloccitoff is a self-destructing to-do list application designed to keep your to-do lists managable.
+short-description: Bloccitoff is a self-destructing to-do list application designed to keep your to-do lists manageable.
 permalink: blocitoff/
 
 ---
@@ -21,19 +21,6 @@ It seems that to-do lists frequently become bloated after being used for even a 
 ## Solution
 
 As with any traditional to-do list, a user can create new items, and then mark them as completed.  The key feature of Blocitoff is that to-do items are automatically deleted seven days after their creation date.  Using Bloccitoff helps develop good productivity habits.  You are more likely to consider whether a task is truly important before adding it to your list, and when items approach their deadline you have a second chance to decide if it is a priority.  This is an improvement over passively adding a task to a to-do list that remains there for a very long period of time.
-
-## Results
-
-The key feature of Bloccitoff is that tasks older than seven days be deleted.  This was accomplished by using a cusotom rake task:
-{%highlight ruby%}
-namespace :todo do
-  desc "TODO"
-  desc "Delete items older than seven days"
-  task delete_items: :environment do
-    Item.where("created_at <= ?", Time.now - 7.days).destroy_all
-  end
-end
-{%endhighlight%}
 
 
 ## Conclusion

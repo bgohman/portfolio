@@ -11,11 +11,11 @@ permalink: smickle/
 
 ## Overview
 
-I have always been interested in how people learn and how we develop our various talents.  I have been particularly impacted by these three poplur books: *Mindset* by Carol Dweck, *Nurtured by Love* by Shinichi Suzuki, and *The Talent Code* by Daniel Coyle.  The common theme in these books is that every one of us has potential for greatness and that we achieve this greatness through gradual and sustained practice.  I built Smickle thinking about helping people become more effective with their music practe.
+I have always been interested in how people learn and how we develop our various talents.  I have been particularly impacted by these three popular books: *Mindset* by Carol Dweck, *Nurtured by Love* by Shinichi Suzuki, and *The Talent Code* by Daniel Coyle.  The common theme in these books is that every one of us has potential for greatness and that we achieve this greatness through gradual and sustained practice.  I built Smickle thinking about helping people become more effective with their music practice.
 
-There is a lot to keep track of as a music student, and it is easy to get deistracted from the most important concepts you should be working on.  Smickle organizes your daily practice and provides the structure needed to practice efficiently. It helps you stay on task and focus on what you really want to achieve.  If you have a large amount of practice tasks that get spread out over a number of days like scales or review pieces, Smickle can help make sure that you are getting to all of them.
+There is a lot to keep track of as a music student, and it is easy to get distracted from the most important concepts you should be working on.  Smickle organizes your daily practice and provides the structure needed to practice efficiently. It helps you stay on task and focus on what you really want to achieve.  If you have a large amount of practice tasks that get spread out over a number of days like scales or review pieces, Smickle can help make sure that you are getting to all of them.
 
-By effectively dealing with the necessery details, you can have fun learning to play an instrument.
+By effectively dealing with the necessary details, you can have fun learning to play an instrument.
 
 ## Key Features
 

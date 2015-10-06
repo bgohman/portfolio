@@ -11,26 +11,26 @@ permalink: blocmarks/
 
 ## Overview
 
-I created Blocmarks as part of my Rails Development course at Bloc.  Blocmarks lets a user bookmark URLs via email, view other people's bookmarks and keep a personal collection of bookmarks grouped by topic.  While I never grasped the practicality of an app like this, it was a fun project to work on.
+I created Blocmarks as part of my Rails Development course at Bloc.  Blocmarks lets a user bookmark URLs via email, view other people's bookmarks and keep a personal collection of bookmarks grouped by topic.  While I never grasped the practicality of an app like this, it was a fun project to work on.  This project would be another opportunity to practice creating a user authentication, and and to make good design decisions.  The exercise of receiving incoming emails will be another exposure to a third party API, in this case Mailgun.
 
-## Personal Objectives
-
-Incorporating a working payment system was a very important goal for me.  Payment systems are complicated and often messy.  Inocoporating this into one of my applications would be an interesting challenge.  So much of developing for the web depends on using and understanding a myriad of APIs, and I want to continue getting more comfortable with digging into the documentation to quickly understand how things interact.
 
 ## User Stories
 
-* As a Developer, I want to generate views using HAML, instead of ERB.
-* As a User, I want to be able to sign up for a free account by providing user name, email, and password.
-* As a User, I want to be able to sign in and out of Blocipedia.
-* As a User with a standard account, I want to be able to Create, Read, Update, and Destroy Public Wikis.
-* As a User, I want a User Profile to display and edit personal Wikis.
-* As a Developer, I want to offer three user roles: Admin, Standard, or Premium.
-* As a Developer, I want to seed the development database with users and wikis.
-* As a User, I want to create wikis using Markdown syntax.
-* As a User, I want to upgrade my account from a Standard to Premium plan.
-* As a Premium User, I want to create private wikis.
-* As a Premium User, I want to add and remove collaborators from my private wikis.
+* As a user, I want to:
+  * Sign up for a free account by providing a username, password and email
+  * Sign in and out of Blocmarks
+  * Email a URL to Blockarks and have it saved in the Blocmarks database
+  * See an index of all topics and their bookmarks
+  * Create, read, update, and delete bookmarks
+  * Be the only one allowed to delete and update my bookmarks
+  * Like and unlike bookmarks created by others
+  * See a list of bookmarks on my personal profile that I've added or liked
+  * See URL previews for each bookmark
+* As a developer, I want to:
+  * Write views using HAML instead of ERB
+  * Make readable URLs
 
 ## Conclusion
 
-I really liked working with Stripe, and it will be my first choice the next time I want to incorporate a payment gateway in a web application. I feel a lot more comfortable with the Stripe API and in general with approaching a new API.  The Wiki CRUD, and the user sign-up/sign-in functionality gave me another opportunity to practice the core principles of the MVC model and RESTful design.  I also enjoyed working with Embedly to show the links as thumbnail previews.
+As a web developer, it is important to be comfortable learning new technologies.  This project provided me the opportunity to work with Mailgun for the first time, and also to explore the Embed.ly API.  I enjoyed working on this project, especially working on the URL previews and using the friendly_id gem to add readable URLs.
+

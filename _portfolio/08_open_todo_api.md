@@ -16,11 +16,14 @@ I created Open Todo API as part of my Rails Development course at Bloc.  This pr
 
 ## User Stories
 
-* As the Open Todo API, I want to return JSON representations of users, lists, and items.
-* As a user, I want to authenticate myself from the command line, using a username and password.
-* As a user, I want to create new users, lists, and items from the command line.
-* As a user, I want to remove users and lists from the command line.
-* As a user, I want to update list and item attributes from the command line.
+* As the Open Todo API, I want to:
+  * Return JSON representations of users, lists, and items.
+
+* As a user, I want to:
+  * Authenticate myself from the command line, using a username and password.
+  * Create new users, lists, and items from the command line.
+  * Remove users and lists from the command line.
+  * Update list and item attributes from the command line.
 
 ## Conclusion
 
