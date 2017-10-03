@@ -3,11 +3,11 @@ layout: post
 title: Smickle
 feature-img: "img/music5.png"
 thumbnail-path: "img/smickle.png"
-short-description: Smickle is a practicing journal for Suzuki violin and piano students, parents and teachers.
+short-description: Smickle is a practicing assistant for Suzuki violin and piano students, parents and teachers.
 permalink: smickle/
 ---
 
-[Visit Smickle](https://sleepy-savannah-9091.herokuapp.com/). The source code is hosted in a private Bitbucket repository. [Contact me](/contact/) if you are interested.
+[Visit Smickle](https://smickle.herokuapp.com/). The source code is hosted in a private Bitbucket repository. [Contact me](/contact/) if you are interested.
 
 ## Overview
 
@@ -21,12 +21,9 @@ By effectively dealing with the necessary details, you can have fun learning to 
 
 * Users can create practice tasks and add them to a student's daily practice routine.
 * Users can add a short reminder and detailed instructions for each task.
-* Users can create a 'task-jar' with any number of tasks and then assign a selected number of them.  They are shuffled and chosen randomly until all of the tasks are complete.  Then all of the tasks go back in and are shuffled again!
-* When a student has completed all of their tasks they are asked if they would like to add a 'surprise review song'.  If they do, a new task comprised of one of their review pieces is added to their routine.
-* Students can use the built in timer to track their practice time.
-* Students are asked to write their goal for the day at the start of the practice session.
-* Students are asked to reflect on something positive they did today at the end of the practice session.
-* Students can check a box to mark tasks as complete.  Completed tasks move to the bottom of the list.
-* A user can review their practice history on a calendar which shows which days you practiced.
+* Users can create a 'task-jar' with any number of tasks and then assign a selected number of them. You can choose to complete them in order, or have them shuffled and chosen randomly until all of the tasks are complete. Then start over and complete them all again!
+* Students can check a box to mark tasks as complete.
+* A user can review their practice history on a calendar which shows which days you practiced, listened, had a lesson, or had a performance.
 * A user can see fun statistics about their practicing like the total number of completed tasks, or their total practice time.
 * A user can see the last time they practiced and also their current and longest streaks of consecutive days.
+* There are two practice 'games'. A 100 times chart, where you can fill up a chart with fun stickers, and the 'plus 7 game', where you move up for a correct repetition and down for an incorrect repetition. There is a fun CSS animation of a penguin that moves up and down a staircase, and does a little dance when you win.
